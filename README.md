@@ -1,0 +1,1 @@
+# SQL-TEMELLER---DEV-1-Patika.dev
